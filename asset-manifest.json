@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/js-formik-with-hooks/static/css/main.ab900493.css",
+    "main.js": "/js-formik-with-hooks/static/js/main.37a2caff.js",
+    "index.html": "/js-formik-with-hooks/index.html",
+    "main.ab900493.css.map": "/js-formik-with-hooks/static/css/main.ab900493.css.map",
+    "main.37a2caff.js.map": "/js-formik-with-hooks/static/js/main.37a2caff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab900493.css",
+    "static/js/main.37a2caff.js"
+  ]
+}
